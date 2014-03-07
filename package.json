@@ -1,6 +1,6 @@
 {
     "name": "pomelo-robot-plus",
-    "version": "0.14.0",
+    "version": "0.14.1",
     "private": false,
     "dependencies": {
         "socket.io": "0.9.13",
@@ -8,7 +8,7 @@
         "underscore": "1.4.4"
     },
     "readmeFilename": "README.md",
-    "gitHead": "b46ba5a5fe3b99272eb98bf75bdc7505358fc354",
+    "gitHead": "854861ad5b911f2ec3902873a3df884edd419d54",
     "description": "pomelo-robot-plus is a fork of 'NetEase pomelo-robot', just add some little feature to enhance the robot.",
     "main": "index.js",
     "repository": {
