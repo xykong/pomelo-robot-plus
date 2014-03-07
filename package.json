@@ -1,25 +1,25 @@
 {
-  "name": "pomelo-robot",
-  "version": "0.1.4",
-  "private": false,
-  "dependencies": {
-    "socket.io": "0.9.13",
-    "socket.io-client": "0.9.11",
-    "underscore": "1.4.4"
-  },
-  "readmeFilename": "README.md",
-  "gitHead": "d33db82d670b7a5d21c95e15f91548f8a8ba7821",
-  "description": "pomelo-robot is a simple tool to benchmark the socket.io server's performance.",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/NetEase/pomelo-robot.git"
-  },
-  "keywords": [
-    "pomelo",
-    "client",
-    "robot"
-  ],
-  "author": "palmtoy",
-  "license": "MIT"
+    "name": "pomelo-robot-plus",
+    "version": "0.1.4.1",
+    "private": false,
+    "dependencies": {
+        "socket.io": "0.9.13",
+        "socket.io-client": "0.9.11",
+        "underscore": "1.4.4"
+    },
+    "readmeFilename": "README.md",
+    "gitHead": "d33db82d670b7a5d21c95e15f91548f8a8ba7821",
+    "description": "pomelo-robot-plus is a fork of 'NetEase pomelo-robot', just add some little feature to enhance the robot.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/xykong/pomelo-robot-plus.git"
+    },
+    "keywords": [
+        "pomelo",
+        "client",
+        "robot"
+    ],
+    "author": "xy.kong@gmail.com",
+    "license": "MIT"
 }
