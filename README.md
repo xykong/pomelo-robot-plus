@@ -1,3 +1,8 @@
+#pomelo-robot-plus
+pomelo-robot-plus is a fork of 'NetEase pomelo-robot', just add some little feature to enhance the robot.
+
+Check logs for details.
+
 #pomelo-robot
 pomelo-robot is a simple tool to benchmark the socket.io server's performance.
 
