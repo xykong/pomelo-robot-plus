@@ -8,7 +8,7 @@
         "underscore": "1.4.4"
     },
     "readmeFilename": "README.md",
-    "gitHead": "55b4fbd70cc21d2b12c301a922eac477690dfa0b",
+    "gitHead": "b46ba5a5fe3b99272eb98bf75bdc7505358fc354",
     "description": "pomelo-robot-plus is a fork of 'NetEase pomelo-robot', just add some little feature to enhance the robot.",
     "main": "index.js",
     "repository": {
